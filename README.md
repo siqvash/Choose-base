@@ -8,3 +8,6 @@ But everything is changing.
 B20: When Compliance Becomes the Starting Point
 
 Base with B20 technology offers a fundamentally different approach. Instead of treating compliance as an add-on - as something you layer on top of an already finished product - it embeds it into the very foundation.
+This isn't a plugin. It's not an extra layer. It's infrastructure that's already waiting for you.
+
+When an issuer launches on Base, they're no longer assembling a financial system from scattered smart contracts like a construction set. They're stepping into a ready-made ecosystem where critical control mechanisms are already operating at the protocol level.
